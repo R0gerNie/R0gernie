@@ -4,11 +4,10 @@
 </div>
 
 <!-- 此处可添加你想展示的内容，如个人介绍、项目链接等 -->
-# 我的个人主页
-欢迎访问我的 GitHub 主页！
+
 
 ## Hi there 👋
-
+## I'm Rogernie and welcome chatting with anyone viewing this!
 <!--
 **R0gerNie/R0gernie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
