@@ -1,6 +1,7 @@
 <!-- 隐藏 Popular repositories 板块 -->
 <div style="display: none;">
   <!-- 占位内容，用于占据默认热门仓库的位置 -->
+  ​
 </div>
 
 <!-- 此处可添加你想展示的内容，如个人介绍、项目链接等 -->
