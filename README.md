@@ -7,7 +7,7 @@
 
 
 ## Hi there 👋
-## I'm Rogernie and welcome chatting with anyone viewing this!
+## I'm R0ger Nie and welcome chatting with anyone viewing this!
 <!--
 **R0gerNie/R0gernie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
