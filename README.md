@@ -2,7 +2,12 @@
 <div style="display: none;">
   
 </div>
-
+<style>
+  /* 定位并隐藏 Popular repositories 板块 */
+  [aria-label="Popular repositories"] {
+    display: none !important;
+  }
+</style>
 <!-- 此处可添加你想展示的内容，如个人介绍、项目链接等 -->
 
 
